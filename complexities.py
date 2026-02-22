@@ -5,3 +5,12 @@ def sum_array(arr):
     return total
 
 # Time Complexity: O(n), Space Complexity: O(1)
+# feat → new problem solved
+
+# refactor → improved solution
+
+# # docs → explanation added
+
+# fix → bug fix
+
+# test → test cases added
